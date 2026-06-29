@@ -95,19 +95,27 @@ http://localhost:8501
 
 ### Dashboard
 
-(Add Screenshot)
+<img width="1017" height="785" alt="image" src="https://github.com/user-attachments/assets/d2d80bda-b675-470a-b7a5-b99e993bebf0" />
+
+ 
 
 ### AQI Risk Map
 
-(Add Screenshot)
+<img width="1502" height="765" alt="image" src="https://github.com/user-attachments/assets/5c7bb1d1-ea53-409d-a915-5279b1e13a7c" />
+
 
 ### Alerts
 
-(Add Screenshot)
+<img width="1549" height="792" alt="image" src="https://github.com/user-attachments/assets/2ba319fe-9f42-44b6-858a-a2aea65a7cb9" />
+
+<img width="1491" height="508" alt="image" src="https://github.com/user-attachments/assets/1192617f-c54f-49e5-892f-14567a6a5184" />
+
+
 
 ### Dataset
 
-(Add Screenshot)
+<img width="1533" height="700" alt="image" src="https://github.com/user-attachments/assets/6b7300da-3d11-4863-8ee7-17523c2d60c8" />
+
 
 ---
 
@@ -125,9 +133,9 @@ http://localhost:8501
 
 ## 👨‍💻 Author
 
-**Dev Ayush**
-
-B.Tech CSE (AI & ML)
+**Shreyansh Kumar |**
+**Roshan Kumar Jha |**
+**Sheik Shaariq**
 
 SRM Institute of Science and Technology
 
